@@ -1,0 +1,3 @@
+create database Assignment28Jan
+
+use Assignment28Jan
